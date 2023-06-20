@@ -1,7 +1,12 @@
+body {
+    flex: 1;
+}
+
 .upper-content {
     background-color: #1F2937;
     color: white;
-    padding: 10px 15px;
+    padding: 24px 100px;
+   
     
 }
 
@@ -34,7 +39,7 @@ button {
 
 .heading {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
   
 }
@@ -48,4 +53,21 @@ button {
 img {
     width: 300px;
     height: auto;
+    display: flex;
+   
+}
+
+.upper-content-body {
+    flex: 1;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+
 }
