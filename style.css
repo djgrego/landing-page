@@ -1,5 +1,6 @@
 body {
     flex: 1;
+    
 }
 
 .upper-content {
@@ -70,5 +71,26 @@ img {
 .container {
     display: flex;
     
+}
 
+.title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
+}
+
+.cool {
+    width: 150px;
+    height: auto;
+}
+
+.container-two {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+info {
+    text-align: center;
 }
