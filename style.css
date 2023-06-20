@@ -28,7 +28,8 @@
 button {
     background-color: #3882F6;
     color: white;
-    max-width: 50px;
+    width: 75px;
+    padding: 5px;
 }
 
 .heading {
@@ -44,7 +45,9 @@ button {
     list-style: none;
    }
 
-.upper-content-body {
-    display: flex;
-    flex-direction: column;
+.image {
+    background-color: grey;
+    text-align: center;
+    padding: 75px;
+    width: 250px;
 }
