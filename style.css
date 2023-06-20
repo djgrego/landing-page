@@ -119,3 +119,31 @@ img {
     text-align: right;
     margin-right: 300px;
 }
+
+.section-four {
+    padding: 150px;
+}
+
+.info-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    padding: 30px 125px;
+   
+}
+
+.box-title {
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+}
+
+.stuff {
+    color: white;
+    font-size: 18px;
+}
+
+.signup {
+    padding: 5px 20px;
+    border-color: white;
+}
