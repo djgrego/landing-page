@@ -1,15 +1,12 @@
 body {
     flex: 1;
-    
+    font-family: 'Roboto', sans-serif;
 }
 
 .upper-content {
     background-color: #1F2937;
     color: white;
     padding: 24px 100px;
-   
-   
-    
 }
 
 .upper-header {
@@ -146,4 +143,11 @@ img {
 .signup {
     padding: 5px 20px;
     border-color: white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+   padding: 30px;
+   text-align: center;
 }
