@@ -1,6 +1,8 @@
 .upper-content {
     background-color: #1F2937;
     color: white;
+    padding: 10px 15px;
+    
 }
 
 .upper-header {
@@ -21,4 +23,28 @@
 .upper-text {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    max-width: 50px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+
+.links { 
+    display: flex;
+    gap: 12px;
+    list-style: none;
+   }
+
+.upper-content-body {
+    display: flex;
+    flex-direction: column;
 }
